@@ -26,6 +26,6 @@ PaddleRec
 | 排序              | [XDeepFM](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/ctr/xdeepfm) |xDeepFM，全称extreme Factorization Machine。对DeepFM和DCN的改进，提出CIN（Compressed Interaction Network），使用vector-wise等级的显示特征交叉。 |
 | 排序              | [DCN](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/ctr/dcn) |全称Deep & Cross Network。提出一种新的交叉网络（cross network），在每个层上明确地应用特征交叉。  |
 | 排序              | [DeepInterestNetwork](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/din) |DIN，全称为Deep Interest Network。特点为对历史序列建模的过程中结合了预估目标的信息。  |
-| 融合-多任务       | [ESSM](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/multi-task/essm) |ESSM，全称为Entire Space Multi-task Model。提出一种新的CVR预估模型。  |
+| 融合-多任务       | [ESMM](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/multi-task/essm) |ESMM，全称为Entire Space Multi-task Model。提出一种新的CVR预估模型。  |
 | 融合-多任务       | [Share_bottom](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/multi-task/Share_bottom) |多任务学习的基本框架，其特点是对于不同的任务，底层的参数和网络结构是共享的。  |
 | 融合-多任务       | [mmoe](https://github.com/PaddlePaddle/models/tree/develop/PaddleRec/multi-task/MMOE) |MMOE, 全称为Multi-grate Mixture-of-Experts，可以刻画任务相关性。  |
